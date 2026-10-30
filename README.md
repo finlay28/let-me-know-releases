@@ -3,7 +3,7 @@
 <h1>Let Me Know</h1>
 <p><strong>Your AI is working. You don't have to keep watching.</strong></p>
 <p>A macOS menu-bar app for completion and input-needed alerts from Codex and Claude Code.</p>
-<p><a href="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.9.0/Let-Me-Know-0.9.0.dmg"><strong>Download for Mac · v0.9.0 preview</strong></a> · <a href="https://github.com/finlay28/global-ai-ping-releases/releases/tag/v0.9.0">Release notes</a> · <a href="docs/DE.md">Deutsch</a></p>
+<p><a href="https://github.com/finlay28/let-me-know-releases/releases/download/v0.9.0/Let-Me-Know-0.9.0.dmg"><strong>Download for Mac · v0.9.0 preview</strong></a> · <a href="https://github.com/finlay28/let-me-know-releases/releases/tag/v0.9.0">Release notes</a> · <a href="docs/DE.md">Deutsch</a></p>
 <p>Apple Silicon (M1 or newer) · macOS 13+ · Audio ducking requires macOS 14.2+</p>
 </div>
 
@@ -56,10 +56,10 @@ Update checks contact GitHub. This public repository hosts downloads, documentat
 
 ## Feedback and sharing
 
-Found a problem? [Open an issue](https://github.com/finlay28/global-ai-ping-releases/issues/new) with your macOS version, app version, AI client and steps to reproduce. Please remove chat content, account details and private paths from screenshots and logs.
+Found a problem? [Open an issue](https://github.com/finlay28/let-me-know-releases/issues/new) with your macOS version, app version, AI client and steps to reproduce. Please remove chat content, account details and private paths from screenshots and logs.
 
 If the app helps you, star this repository or share this page with someone who uses Codex or Claude Code. Stars are appreciated; they do not unlock any features.
 
-**Share this page:** https://github.com/finlay28/global-ai-ping-releases
+**Share this page:** https://github.com/finlay28/let-me-know-releases
 
-[Latest documented release](https://github.com/finlay28/global-ai-ping-releases/releases/tag/v0.9.0) · [All releases](https://github.com/finlay28/global-ai-ping-releases/releases)
+[Latest documented release](https://github.com/finlay28/let-me-know-releases/releases/tag/v0.9.0) · [All releases](https://github.com/finlay28/let-me-know-releases/releases)

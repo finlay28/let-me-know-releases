@@ -4,7 +4,7 @@
 
 Let Me Know ist eine macOS-Menüleisten-App für Codex und Claude Code. Sie meldet per eigenem Banner und Sound, wenn eine Antwort fertig ist oder deine Eingabe gebraucht wird.
 
-[DMG herunterladen · 0.9.0 Preview](https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.9.0/Let-Me-Know-0.9.0.dmg)
+[DMG herunterladen · 0.9.0 Preview](https://github.com/finlay28/let-me-know-releases/releases/download/v0.9.0/Let-Me-Know-0.9.0.dmg)
 
 ## Funktionen
 
@@ -32,4 +32,4 @@ Apple Silicon (M1 oder neuer), macOS 13+. Audio-Ducking benötigt macOS 14.2+. U
 
 Audioverarbeitung findet lokal statt; Systemaudio wird nicht gespeichert oder hochgeladen. Updates werden über GitHub geprüft. Bei eingeschaltetem Ducking und fehlender oder fehlgeschlagener Freigabe kann jede neue echte Benachrichtigung erneut zur Freigabe auffordern. Ist Ducking aus, entfallen diese Nachfragen.
 
-[Fehler melden](https://github.com/finlay28/global-ai-ping-releases/issues/new) · [Englische Hauptseite](../README.md)
+[Fehler melden](https://github.com/finlay28/let-me-know-releases/issues/new) · [Englische Hauptseite](../README.md)
