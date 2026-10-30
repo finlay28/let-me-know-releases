@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Global AI Ping</title>
+        <item>
+            <title>0.7.0</title>
+            <pubDate>Fri, 30 Oct 2026 16:19:50 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Global AI Ping 0.7.0 — Preview
+
+- Guided first-run setup for Codex / Claude Code connections, system audio and launch at login.
+- Smooth transitions with Reduce Motion support.
+- Built-in Sparkle updates: manual checks, automatic daily checks, install now or later.
+- New-version indicator in the settings sidebar.
+- Signed update feed and Ed25519-verified downloads.
+
+Requires macOS 14.2 or later for audio ducking. This first preview download is for Apple silicon.
+This preview is not yet Apple Developer ID signed or notarized; macOS may block first launch on another Mac. The in-app updater verifies downloads using the app's own pinned signing key.
+Existing installations before 0.7.0 require this version to be installed manually once.
+]]></description>
+            <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.7.0/Global-AI-Ping-0.7.0.zip" length="2251347" type="application/octet-stream" sparkle:edSignature="HjTbGSodeqiSPVSX0m3IDHawWkHaObkJnyUvynPgyHe0lfjRk49SSmwzeSuuPZOP8wegGBshYnPa9Gt4umrkCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 6ytShu40dcwFEkvT/PR2RbH+7XF09xOviVsBHm0E6phVByvzypwd9qczt85DVSlyB1J2dLIPhdWwGrbUxeiQAg==
+length: 1972
+-->
