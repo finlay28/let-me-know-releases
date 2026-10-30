@@ -24,7 +24,7 @@ Normale ChatGPT- und Claude-Chats sind noch nicht enthalten. Die App ist unabhä
 3. Verbindungen einrichten, Sounds wählen und gewünschte Berechtigungen erlauben.
 4. Bereits laufende Claude-Code-Sitzungen neu starten und eine echte Anfrage testen.
 
-**Wichtig:** Diese Preview ist mit Developer ID signiert, aber noch nicht von Apple notarisiert. macOS kann das Öffnen blockieren. Falls „Dennoch öffnen“ unter Systemeinstellungen → Datenschutz & Sicherheit angeboten wird, nutze es nur, wenn du dem Download vertraust. Für die unkomplizierte Installation ohne diesen Zusatzschritt bitte die notarisierten Releases abwarten.
+**Von Apple notarisiert:** Die offizielle DMG der Version 0.9.0 ist mit Developer ID signiert, von Apple akzeptiert und enthält die Notarisierungsbestätigung. Die normale Rückfrage beim ersten Öffnen einer aus dem Internet geladenen App kann weiterhin erscheinen.
 
 ## Voraussetzungen
 

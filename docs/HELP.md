@@ -18,7 +18,7 @@ Ducking needs macOS 14.2+, a supported audio output and system-audio permission.
 
 ## Installation is blocked
 
-The current preview is signed but not notarized. Gatekeeper may block it. Do not disable Gatekeeper, reset all privacy permissions or run commands from strangers to work around this. Wait for a notarized release if you do not want to use an explicit macOS opening exception.
+The official v0.9.0 DMG is now signed and Apple-notarized, with its ticket attached. If you downloaded an earlier copy of v0.9.0 before notarization, download it again from this repository. The standard first-open internet-download confirmation may still appear. Do not disable Gatekeeper or run commands from strangers. If the new download is blocked, report the exact message and macOS version.
 
 ## Reporting a bug
 

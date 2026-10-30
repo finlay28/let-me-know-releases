@@ -31,7 +31,7 @@ Ordinary ChatGPT and Claude conversations are **not supported** in this preview.
 4. Connect your detected profiles. Restart existing Claude Code sessions after setting up hooks.
 5. Choose your sounds, optionally enable audio ducking and launch at login, then send a prompt in a supported app.
 
-**Current preview limitation:** the app and DMG are Developer ID signed, but **not yet notarized by Apple**. macOS Gatekeeper may block opening them. If macOS offers “Open Anyway” under System Settings → Privacy & Security, only use it if you trust this download. No security-disabling commands are required or recommended. For a normal installation without this extra step, wait for a notarized release.
+**Apple-notarized:** the official v0.9.0 DMG is Developer ID signed, accepted by Apple’s notarization service and includes the notarization ticket. macOS may still show the normal first-open confirmation for an app downloaded from the internet.
 
 The normal download installs the official app. A separately identified “Test V1” build is used for fresh-onboarding QA; it is not the public default.
 
