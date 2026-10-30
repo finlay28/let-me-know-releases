@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Global AI Ping</title>
         <item>
+            <title>0.8.2</title>
+            <pubDate>Fri, 30 Oct 2026 16:49:37 +0100</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Let Me Know 0.8.2 — Preview
+
+- Small square images appear as compact, uncropped 112-point previews in notifications.
+- Banner content is measured before attachment to a reused window, with an explicit natural height to prevent image-area clipping.
+- Image clicks still open the originating chat.
+
+Apple silicon preview; Apple Developer ID signing and notarization remain pending.
+]]></description>
+            <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.8.2/Let-Me-Know-0.8.2.zip" length="2495719" type="application/octet-stream" sparkle:edSignature="AKHegYfNNImGAOPhjx3VYJMg/XWyT2CHpstmSQDn4WOlWvXv/+QsPOHhiw9iOGHmEa2ERiYdlNevifrCVEeOBA=="/>
+        </item>
+        <item>
             <title>0.8.1</title>
             <pubDate>Fri, 30 Oct 2026 16:46:13 +0100</pubDate>
             <sparkle:version>14</sparkle:version>
@@ -45,26 +62,9 @@ Apple silicon preview. Apple Developer ID signing and notarization remain pendin
 ]]></description>
             <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.8.0/Let-Me-Know-0.8.0.zip" length="2074308" type="application/octet-stream" sparkle:edSignature="Cut5qmAk+C5yCyczSV/J9rp5hd720PDeJsFcb4ctqWE413Op+/bzYZYogvpvFk1vH3I1ozL6uVIGooCHjOU3Aw=="/>
         </item>
-        <item>
-            <title>0.7.1</title>
-            <pubDate>Fri, 30 Oct 2026 16:27:38 +0100</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Global AI Ping 0.7.1 — Preview
-
-- Clicking outside the menu-bar popover now closes it, including clicks in other apps and the desktop.
-- Clicks inside the popover, native sound menus and the status icon retain their normal behavior.
-- Mouse monitors exist only while the popover is open; clicks are not consumed.
-
-Apple silicon preview. Apple Developer ID signing and notarization are still pending.
-]]></description>
-            <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.7.1/Global-AI-Ping-0.7.1.zip" length="2254645" type="application/octet-stream" sparkle:edSignature="7pNwzwuLi7zjObBuItK+WSCuM7uxhUhKNlYLIK0QYEdZi31j9PynI6+555XV7GIvUT6KCtbIy0FG8E2t12MGBQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 7WSqq1m2pGgJh9rgKKbOL6Yx1+Kq+mgbO8LV8zn8Y92IKASDccMbvlGH+5xreWvahMW1iOyEFhD+WYaPZ5CnAA==
-length: 4388
+edSignature: 95z6k++QDjRpN8BSKseR4gw5hDGMG9lrNSD36GbxO7RdEvQc9wRx1z4dXdO6AijAw/jIVf9YA0jb/aiTMRTpBg==
+length: 4365
 -->
