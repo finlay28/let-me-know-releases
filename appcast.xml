@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Global AI Ping</title>
         <item>
+            <title>0.8.1</title>
+            <pubDate>Fri, 30 Oct 2026 16:46:13 +0100</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Let Me Know 0.8.1 — Preview
+
+- Redesigned Mac app icon: very dark green background with the original green mark.
+- Updated icon resource name to refresh Finder and Dock artwork.
+
+Apple silicon preview; Apple Developer ID signing and notarization remain pending.
+]]></description>
+            <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.8.1/Let-Me-Know-0.8.1.zip" length="2490798" type="application/octet-stream" sparkle:edSignature="2SpUeUX78OeaYR8Q5rwEWKJSz8NBnnbPujW1lcpzyN3zUXWUJQq93eDsuY3614vhj+fWg3bdONKWLn08kladBQ=="/>
+        </item>
+        <item>
             <title>0.8.0</title>
             <pubDate>Fri, 30 Oct 2026 16:41:56 +0100</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -46,30 +62,9 @@ Apple silicon preview. Apple Developer ID signing and notarization are still pen
 ]]></description>
             <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.7.1/Global-AI-Ping-0.7.1.zip" length="2254645" type="application/octet-stream" sparkle:edSignature="7pNwzwuLi7zjObBuItK+WSCuM7uxhUhKNlYLIK0QYEdZi31j9PynI6+555XV7GIvUT6KCtbIy0FG8E2t12MGBQ=="/>
         </item>
-        <item>
-            <title>0.7.0</title>
-            <pubDate>Fri, 30 Oct 2026 16:19:50 +0100</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Global AI Ping 0.7.0 — Preview
-
-- Guided first-run setup for Codex / Claude Code connections, system audio and launch at login.
-- Smooth transitions with Reduce Motion support.
-- Built-in Sparkle updates: manual checks, automatic daily checks, install now or later.
-- New-version indicator in the settings sidebar.
-- Signed update feed and Ed25519-verified downloads.
-
-Requires macOS 14.2 or later for audio ducking. This first preview download is for Apple silicon.
-This preview is not yet Apple Developer ID signed or notarized; macOS may block first launch on another Mac. The in-app updater verifies downloads using the app's own pinned signing key.
-Existing installations before 0.7.0 require this version to be installed manually once.
-]]></description>
-            <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.7.0/Global-AI-Ping-0.7.0.zip" length="2251347" type="application/octet-stream" sparkle:edSignature="HjTbGSodeqiSPVSX0m3IDHawWkHaObkJnyUvynPgyHe0lfjRk49SSmwzeSuuPZOP8wegGBshYnPa9Gt4umrkCw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Yo70DIKGnl3DEivLlSkOZqlnAPXlMg1ySo1Qu7WI4a5Lhth4vPGjkEibjYPRdyqQOuUM4TT1+dW4AhOAK4hlBA==
-length: 4871
+edSignature: 7WSqq1m2pGgJh9rgKKbOL6Yx1+Kq+mgbO8LV8zn8Y92IKASDccMbvlGH+5xreWvahMW1iOyEFhD+WYaPZ5CnAA==
+length: 4388
 -->
