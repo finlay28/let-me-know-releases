@@ -1,8 +1,27 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Global AI Ping</title>
+        <item>
+            <title>0.7.1</title>
+            <pubDate>Fri, 30 Oct 2026 16:27:38 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Global AI Ping 0.7.1 — Preview
+
+- Clicking outside the menu-bar popover now closes it, including clicks in other apps and the desktop.
+- Clicks inside the popover, native sound menus and the status icon retain their normal behavior.
+- Mouse monitors exist only while the popover is open; clicks are not consumed.
+
+Apple silicon preview. Apple Developer ID signing and notarization are still pending.
+]]></description>
+            <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.7.1/Global-AI-Ping-0.7.1.zip" length="2254645" type="application/octet-stream" sparkle:edSignature="7pNwzwuLi7zjObBuItK+WSCuM7uxhUhKNlYLIK0QYEdZi31j9PynI6+555XV7GIvUT6KCtbIy0FG8E2t12MGBQ=="/>
+        </item>
         <item>
             <title>0.7.0</title>
             <pubDate>Fri, 30 Oct 2026 16:19:50 +0100</pubDate>
@@ -22,10 +41,11 @@ Requires macOS 14.2 or later for audio ducking. This first preview download is f
 This preview is not yet Apple Developer ID signed or notarized; macOS may block first launch on another Mac. The in-app updater verifies downloads using the app's own pinned signing key.
 Existing installations before 0.7.0 require this version to be installed manually once.
 ]]></description>
-            <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.7.0/Global-AI-Ping-0.7.0.zip" length="2251347" type="application/octet-stream" sparkle:edSignature="HjTbGSodeqiSPVSX0m3IDHawWkHaObkJnyUvynPgyHe0lfjRk49SSmwzeSuuPZOP8wegGBshYnPa9Gt4umrkCw=="></enclosure>
+            <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.7.0/Global-AI-Ping-0.7.0.zip" length="2251347" type="application/octet-stream" sparkle:edSignature="HjTbGSodeqiSPVSX0m3IDHawWkHaObkJnyUvynPgyHe0lfjRk49SSmwzeSuuPZOP8wegGBshYnPa9Gt4umrkCw=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: 6ytShu40dcwFEkvT/PR2RbH+7XF09xOviVsBHm0E6phVByvzypwd9qczt85DVSlyB1J2dLIPhdWwGrbUxeiQAg==
-length: 1972
+</rss>
+<!-- sparkle-signatures:
+edSignature: N6B4OfBbD7i12GfkagjnXuqhWFweH3pozwiGYsspOFOsgcy7Yzp1UbZHNs7MNf5Y8uFlOwVnhPWh53w1K5G0BQ==
+length: 3148
 -->
