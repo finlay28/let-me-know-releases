@@ -1,5 +1,5 @@
-# Global AI Ping
-A native macOS menu-bar companion for local Codex and Claude Code sessions.
+# Let Me Know
+Formerly Global AI Ping. A native macOS menu-bar companion for local Codex and Claude Code sessions.
 
 This repository contains public downloads and the cryptographically signed Sparkle update feed. Source code is maintained separately in a private repository.
 
