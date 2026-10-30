@@ -6,6 +6,30 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Global AI Ping</title>
         <item>
+            <title>0.8.0</title>
+            <pubDate>Fri, 30 Oct 2026 16:41:56 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Let Me Know 0.8.0 — Preview
+
+Global AI Ping is now **Let Me Know**. Existing sounds, settings, connection hooks and the signed update channel are preserved.
+
+- Six clearer setup steps: welcome, audio, detected apps, startup, sounds, finish.
+- Centered floating setup window, with system permission dialogs allowed above it.
+- Audio verification reports success only after a live audio path has been established.
+- Automatic connection of detected local Codex / Claude Code profiles and a rescan action.
+- Global sound selection with previews and buttons to open connected apps.
+- Closing unfinished setup quits the app and resumes at the saved step next time. Closing the completion page leaves the app running.
+- Notifications are suppressed during setup.
+
+macOS may request audio permission again; the app cannot force or bypass a system permission prompt.
+Apple silicon preview. Apple Developer ID signing and notarization remain pending.
+]]></description>
+            <enclosure url="https://github.com/finlay28/global-ai-ping-releases/releases/download/v0.8.0/Let-Me-Know-0.8.0.zip" length="2074308" type="application/octet-stream" sparkle:edSignature="Cut5qmAk+C5yCyczSV/J9rp5hd720PDeJsFcb4ctqWE413Op+/bzYZYogvpvFk1vH3I1ozL6uVIGooCHjOU3Aw=="/>
+        </item>
+        <item>
             <title>0.7.1</title>
             <pubDate>Fri, 30 Oct 2026 16:27:38 +0100</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -46,6 +70,6 @@ Existing installations before 0.7.0 require this version to be installed manuall
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: N6B4OfBbD7i12GfkagjnXuqhWFweH3pozwiGYsspOFOsgcy7Yzp1UbZHNs7MNf5Y8uFlOwVnhPWh53w1K5G0BQ==
-length: 3148
+edSignature: Yo70DIKGnl3DEivLlSkOZqlnAPXlMg1ySo1Qu7WI4a5Lhth4vPGjkEibjYPRdyqQOuUM4TT1+dW4AhOAK4hlBA==
+length: 4871
 -->
