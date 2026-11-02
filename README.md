@@ -3,7 +3,7 @@
 <h1>Let Me Know</h1>
 <p><strong>Your AI is working. You don't have to keep watching.</strong></p>
 <p>A macOS menu-bar app for completion and input-needed alerts from Codex and Claude Code.</p>
-<p><a href="https://github.com/finlay28/let-me-know-releases/releases/download/v0.9.0/Let-Me-Know-0.9.0.dmg"><strong>Download for Mac · v0.9.0 preview</strong></a> · <a href="https://github.com/finlay28/let-me-know-releases/releases/tag/v0.9.0">Release notes</a> · <a href="docs/DE.md">Deutsch</a></p>
+<p><a href="https://github.com/finlay28/let-me-know-releases/releases/download/v0.9.1/Let-Me-Know-0.9.1.dmg"><strong>Download for Mac · v0.9.1 preview</strong></a> · <a href="https://github.com/finlay28/let-me-know-releases/releases/tag/v0.9.1">Release notes</a> · <a href="docs/DE.md">Deutsch</a></p>
 <p>Apple Silicon (M1 or newer) · macOS 13+ · Audio ducking requires macOS 14.2+</p>
 </div>
 
@@ -31,7 +31,7 @@ Ordinary ChatGPT and Claude conversations are **not supported** in this preview.
 4. Connect your detected profiles. Restart existing Claude Code sessions after setting up hooks.
 5. Choose your sounds, optionally enable audio ducking and launch at login, then send a prompt in a supported app.
 
-**Apple-notarized:** the official v0.9.0 DMG is Developer ID signed, accepted by Apple’s notarization service and includes the notarization ticket. macOS may still show the normal first-open confirmation for an app downloaded from the internet.
+**Apple-notarized:** the official v0.9.1 DMG is Developer ID signed, accepted by Apple’s notarization service and includes the notarization ticket. macOS may still show the normal first-open confirmation for an app downloaded from the internet.
 
 The normal download installs the official app. A separately identified “Test V1” build is used for fresh-onboarding QA; it is not the public default.
 
@@ -62,4 +62,4 @@ If the app helps you, star this repository or share this page with someone who u
 
 **Share this page:** https://github.com/finlay28/let-me-know-releases
 
-[Latest documented release](https://github.com/finlay28/let-me-know-releases/releases/tag/v0.9.0) · [All releases](https://github.com/finlay28/let-me-know-releases/releases)
+[Latest documented release](https://github.com/finlay28/let-me-know-releases/releases/tag/v0.9.1) · [All releases](https://github.com/finlay28/let-me-know-releases/releases)

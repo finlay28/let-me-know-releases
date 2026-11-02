@@ -4,7 +4,7 @@
 
 Let Me Know ist eine macOS-Menüleisten-App für Codex und Claude Code. Sie meldet per eigenem Banner und Sound, wenn eine Antwort fertig ist oder deine Eingabe gebraucht wird.
 
-[DMG herunterladen · 0.9.0 Preview](https://github.com/finlay28/let-me-know-releases/releases/download/v0.9.0/Let-Me-Know-0.9.0.dmg)
+[DMG herunterladen · 0.9.1 Preview](https://github.com/finlay28/let-me-know-releases/releases/download/v0.9.1/Let-Me-Know-0.9.1.dmg)
 
 ## Funktionen
 
@@ -24,7 +24,7 @@ Normale ChatGPT- und Claude-Chats sind noch nicht enthalten. Die App ist unabhä
 3. Verbindungen einrichten, Sounds wählen und gewünschte Berechtigungen erlauben.
 4. Bereits laufende Claude-Code-Sitzungen neu starten und eine echte Anfrage testen.
 
-**Von Apple notarisiert:** Die offizielle DMG der Version 0.9.0 ist mit Developer ID signiert, von Apple akzeptiert und enthält die Notarisierungsbestätigung. Die normale Rückfrage beim ersten Öffnen einer aus dem Internet geladenen App kann weiterhin erscheinen.
+**Von Apple notarisiert:** Die offizielle DMG der Version 0.9.1 ist mit Developer ID signiert, von Apple akzeptiert und enthält die Notarisierungsbestätigung. Die normale Rückfrage beim ersten Öffnen einer aus dem Internet geladenen App kann weiterhin erscheinen.
 
 ## Voraussetzungen
 

@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Let Me Know</title>
         <item>
+            <title>0.9.1</title>
+            <pubDate>Mon, 02 Nov 2026 23:49:41 +0100</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Let Me Know 0.9.1
+
+Fixes “Unable to Check For Updates”: enables the archive verification required by the signed Sparkle update feed. Includes the audio-ducking access reminders introduced in 0.9.0.
+
+Apple-notarized, Developer ID signed. Apple Silicon, macOS 13+; audio ducking requires macOS 14.2+.
+
+If your older app cannot start its updater, download this DMG and replace Let Me Know in Applications once. Quit the old app fully before opening the new version. Settings are preserved.
+]]></description>
+            <enclosure url="https://github.com/finlay28/let-me-know-releases/releases/download/v0.9.1/Let-Me-Know-0.9.1.dmg" length="3749169" type="application/octet-stream" sparkle:edSignature="2ZktynKqbUnUxVhehWg2yToqsej4/UQ4Mb39X8ObXhXvm4qrJg8rD138lwxD8hHRg/ErUJp0smJXE0tnPBaJDA=="/>
+        </item>
+        <item>
             <title>0.9.0</title>
             <pubDate>Mon, 02 Nov 2026 23:45:52 +0100</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -83,6 +100,6 @@ Apple silicon preview. Apple Developer ID signing and notarization remain pendin
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: HSW+rzd+0NbdDopxLsQgzXv7TJLJ7JAWYzRYn4Wfw+x8l6jJDoGT4/zUDZpsYx8CoGWQH4dcLujnqEqemOjSCw==
-length: 5632
+edSignature: hPEFk4fZdFpYQFUKzG6ijNIPQsxTG3F+LW/F+iHaLBjnciPfsAfNhdsFAdViaIg+0TtY5XQCZi8rMI3hDhVIAQ==
+length: 6899
 -->
